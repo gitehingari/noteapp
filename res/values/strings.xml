@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="create">CREATE</string>
+    <string name="add_note">Add Note</string>
+</resources>
